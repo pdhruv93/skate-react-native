@@ -1,4 +1,8 @@
-<h2>Just for learning purpose. No intent for commercial use. Inspired from <a href="https://dribbble.com/shots/5350361-SkateBoard-Decks">here</a></h2>
+<h2>Just for learning purpose. No intent for commercial use. Inspired from <a target="_blank" href="https://dribbble.com/shots/5350361-SkateBoard-Decks">here</a></h2>
+
+<img src="screenshots/1.PNG" width="350">
+<img src="screenshots/2.PNG" width="350">
+<img src="screenshots/recording.gif" width="350">
 
 
 Create new project
